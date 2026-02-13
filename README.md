@@ -1,2 +1,2 @@
-# ISE-TASK-1
-ONLINE SHOPPING SYSTEM
+In this assignment we studied different SDLC models and how they can be used to develop Online Shopping System. After comparing the models, it is clear that the Incremental development model and Spiral models are more suitable for this type of system. This is because Online Shopping platforms requires updates, new features and strong security so that these models allow flexibility and better in handling the risk. Also, Online Shopping system must deal with many things like secure payments, users data protection, and also for changing customer needs. 
+This assignment also shows how important requirements engineering is. Also clearly helps us to understand what customers and the business owners needs, checking the user requirements carefully, and considering Functional features like login, cart, payment and Non-functional features like security, speed, reliability are very important for building a successful system.
